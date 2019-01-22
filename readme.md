@@ -14,11 +14,14 @@ Bezpośrednio ze strony Google Extensions lub poprzez ściągnięcie plików i d
 ## Co zmienia rozszerzenie?
 
 * Gdy strona JSOS nie odpowiada zmienia status oraz ikonę. 
+
 ![Statusy](Status.jpg?raw=true "Status strony JSOS")
 
-* Zmienia tło strony na ładniejsze
+* Zmienia tło strony na ładniejsze.
+
 ![Tło](fix1.jpg?raw=true "Tło strony")
 
 * Sortuje listy alfabetycznie. Koniec z szukaniem swojego wydziału.
+
 ![Listy](fix2.jpg?raw=true "Sortowanie list")
 
