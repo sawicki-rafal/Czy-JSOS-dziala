@@ -1,6 +1,4 @@
 
-
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 # Czy JSOS działa?
 ...różnie.
 
@@ -9,7 +7,7 @@ Rozszerzenie sprawdza jak czy strona JSOS żyję i wyświetla odpowiedni status.
 
 ## Jak zainstalować?
 
-Bezpośrednio ze strony Google Extensions lub poprzez ściągnięcie plików i dodanie ich w trybie deweloperskim na stronię [chrome://extensions/ ](chrome://extensions/) za pomocą przycisku *Załaduj rozpakowane*.
+Bezpośrednio ze strony [Chrome Webstore](https://chrome.google.com/webstore/detail/czy-jsos-dzia%C5%82a/minomahenjgdlkbclmndcchiiglhonbd) lub poprzez ściągnięcie plików i dodanie ich w trybie deweloperskim na stronię [chrome://extensions/](chrome://extensions/) za pomocą przycisku *Załaduj rozpakowane*.
 
 ## Co zmienia rozszerzenie?
 

@@ -3,7 +3,7 @@
 chrome.runtime.onInstalled.addListener(function() {
   setInterval(()=>{
     isItAlive(itsAlive, itsDead);
-  }, 5000)
+  }, 30000)
 });
 
 function isItAlive(itsAlive, itsDead){

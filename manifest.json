@@ -2,7 +2,8 @@
     "manifest_version": 2,
     "name": "Czy JSOS działa?",
     "description": "Dodatek sprawdza... czy JSOS działa? Oprócz tego dodaje ładne tło i poprawia sortowanie jednostek organizacyjnych.",
-    "version": "1",
+    "version": "2",
+    "short_name": "JSOS żyje?",
     "author": "Kamil Jurowicz",
     "icons": {
         "16": "icon_16.png",
