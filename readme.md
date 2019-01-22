@@ -19,9 +19,9 @@ Bezpośrednio ze strony Google Extensions lub poprzez ściągnięcie plików i d
 
 * Zmienia tło strony na ładniejsze.
 
-![Tło](fix1.jpg?raw=true "Tło strony")
+![Tło](fix1.jpg?raw=true=600x "Tło strony")
 
 * Sortuje listy alfabetycznie. Koniec z szukaniem swojego wydziału.
 
-![Listy](fix2.jpg?raw=true "Sortowanie list")
+![Listy](fix2.jpg?raw=true=600x "Sortowanie list")
 
